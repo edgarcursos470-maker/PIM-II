@@ -8,6 +8,8 @@ Projeto desenvolvido para a Faculdade UNIP (Universidade Paulista).
 - Edgar Parreira França — RA: 2625239
 - Ana Luiza Morais Barbieri — RA: 2622005
 - Theo Amaral da Silva — RA: 2626098
+- Renan Massa Amaral - RA: 2626740
+
 
 ## Sobre o projeto
 
